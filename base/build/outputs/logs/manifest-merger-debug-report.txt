@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:1-10:12
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:4:18-60
+application
+ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:5:5-8:19
+	android:supportsRtl
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:6:9-35
+	android:label
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:5:45-77
+	android:allowBackup
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml:5:18-44
+uses-sdk
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+		ADDED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
+		INJECTED from E:\lwxJingDong\base\src\main\AndroidManifest.xml
